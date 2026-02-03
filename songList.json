@@ -75,41 +75,40 @@
         "name": "\"Reply\" by Yuuko Natsuyoshi",
         "video": "https://nawdist.animemusicquiz.com/34uqf6cuc4v16a20.webm",
         "mp3": null
+    },
+    {
+        "id": 12,
+        "anime": "Cosmic Princess Kaguya! - Utattemita",
+        "name": "\"Lonely Universe\" by Aqu3ra / covered by Tsukimi Yachiyo (CV: Saori Hayami)",
+        "video": "https://www.youtube.com/watch?v=enzi3ZZmFoE",
+        "mp3": null
+    },
+    {
+        "id": 13,
+        "anime": "Cosmic Princess Kaguya! - Utattemita",
+        "name": "\"Taketori Overnight Sensation\" by HoneyWorks / covered by Kaguya (CV: Yuuko Natsuyoshi)",
+        "video": "https://www.youtube.com/watch?v=C1O_i9nZEPI",
+        "mp3": null
+    },
+    {
+        "id": 14,
+        "anime": "Cosmic Princess Kaguya! - Utattemita",
+        "name": "\"Torinoko City\" by 40mP / covered by Tsukimi Yachiyo (CV: Saori Hayami)",
+        "video": "https://www.youtube.com/watch?v=gsGjcLVI6X4",
+        "mp3": null
+    },
+    {
+        "id": 15,
+        "anime": "Cosmic Princess Kaguya! - Utattemita",
+        "name": "\"Yume wo Miru Shima\" by yuigot / covered by Kaguya (CV: Yuuko Natsuyoshi)",
+        "video": "https://www.youtube.com/watch?v=TiovwU3mJNE",
+        "mp3": null
+    },
+    {
+        "id": 16,
+        "anime": "Cosmic Princess Kaguya! - Utattemita",
+        "name": "\"Tell Your World\" by kz / covered by Tsukimi Yachiyo (CV: Saori Hayami)",
+        "video": "https://www.youtube.com/watch?v=24OIBLd8uu8",
+        "mp3": null
     }
-,
-{
-  "id": 12,
-  "anime": "Cosmic Princess Kaguya!",
-  "name": "\"Lonely Universe\" by Aqu3ra / covered by Tsukimi Yachiyo (CV: Saori Hayami)",
-  "video": "https://www.youtube.com/watch?v=enzi3ZZmFoE",
-  "mp3": null
-},
-{
-  "id": 13,
-  "anime": "Cosmic Princess Kaguya!",
-  "name": "\"Taketori Overnight Sensation\" by HoneyWorks / covered by Kaguya (CV: Yuuko Natsuyoshi)",
-  "video": "https://www.youtube.com/watch?v=C1O_i9nZEPI",
-  "mp3": null
-},
-{
-  "id": 14,
-  "anime": "Cosmic Princess Kaguya!",
-  "name": "\"Torinoko City\" by 40mP / covered by Tsukimi Yachiyo (CV: Saori Hayami)",
-  "video": "https://www.youtube.com/watch?v=gsGjcLVI6X4",
-  "mp3": null
-},
-{
-  "id": 15,
-  "anime": "Cosmic Princess Kaguya!",
-  "name": "\"Yume wo Miru Shima\" by yuigot / covered by Kaguya (CV: Yuuko Natsuyoshi)",
-  "video": "https://www.youtube.com/watch?v=TiovwU3mJNE",
-  "mp3": null
-},
-{
-  "id": 16,
-  "anime": "Cosmic Princess Kaguya!",
-  "name": "\"Tell Your World\" by kz / covered by Tsukimi Yachiyo (CV: Saori Hayami)",
-  "video": "https://www.youtube.com/watch?v=24OIBLd8uu8",
-  "mp3": null
-}
 ]
